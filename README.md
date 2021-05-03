@@ -4,7 +4,6 @@
 I've coded since the 90s and was an intern developer for a couple summers. I pivoted careers to teach high school math until transitioning to stay at home dad. 👨‍🍼
 
 Just like Rip woke and found a new America, I've returned to coding to find a whole new world in software development. Each week I find some new tool or standard and have my mind blown. Flexbox, media queries, Browser-sync, SASS, stackexchange, git, node, react.js, ... 
-I keep finding myself delighted by something super cool- that we never had back in the day: browser-sync, git, SASS, flexbox, babel, ... 😲
 
 I've coded sites for local businesses: [Erin Norman gardens](https://erinnormangardens.com), [Summit Tree Service](https://summittreepros.com). 
 
