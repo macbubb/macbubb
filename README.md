@@ -6,7 +6,7 @@ After a couple software engineer internships I pivoted to teach high school math
 All the while, I've been tinkering with computers and code, and in the past 5 years taken a deep dive into web development.
 
 I've coded sites for local businesses: 
-- [Erin Norman gardens](https://erinnormangardens.com) 
+- [Erin Norman Gardens](https://erinnormangardens.com) 
 - [Summit Tree Service](https://summittreepros.com).
 
 I've worked on my own projects:
