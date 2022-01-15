@@ -7,7 +7,7 @@ All the while, I've been tinkering with computers and code, and in the past 5 ye
 
 I've coded sites for local businesses: 
 - [Erin Norman Gardens](https://erinnormangardens.com) 
-- [Summit Tree Service](https://summittreepros.com).
+- [Summit Tree Service](https://summittreepros.com)
 
 I've worked on my own projects:
 - [Running Kindness](https://runningkindness.com)
