@@ -3,4 +3,4 @@ As a kid, my curiosity led to experimenting with computers: custom DOOM wads, we
 
 I worked for years as a high school math teacher but now I am a full stack web developer. I am hooked on the satisfaction of solving problems and love to see an idea go from a pencil and paper sketch to a full blown responsive web app.
 
-Check out my portfolio at [https://macbubb.com](macbubb.com)
+Check out my portfolio at [macbubb.com](https://macbubb.com)
